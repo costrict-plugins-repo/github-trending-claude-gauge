@@ -1,0 +1,18 @@
+{
+  "name": "claude-gauge",
+  "version": "2.0.0",
+  "description": "Rate limit fuel gauge for Claude Code — live utilization via native rate_limits API, session cost, tokens, and duration",
+  "author": {
+    "name": "mil-orb"
+  },
+  "repository": "https://github.com/mil-orb/claude-gauge",
+  "license": "MIT",
+  "keywords": [
+    "statusline",
+    "rate-limit",
+    "tokens",
+    "cost",
+    "gauge",
+    "dashboard"
+  ]
+}
